@@ -22,3 +22,13 @@ this image gives the loss function vs the epochs performed
 
 
 this image gives the comparison between actual caption and predicted caption when it is tested on an image in the dataset
+
+
+
+
+![b](https://user-images.githubusercontent.com/55068834/121906007-51e16f00-cd48-11eb-9dff-bdb77efeb0e5.jpg)
+
+
+
+
+this image shows the caption generated when it is tested on a random image from the internet.
