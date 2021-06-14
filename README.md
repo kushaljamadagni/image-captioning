@@ -11,3 +11,14 @@ the image-captioning(1) is a model of image captioning which uses inceptionv3 fo
 
 
 this image gives the loss function vs the epochs performed
+
+
+
+
+
+![a](https://user-images.githubusercontent.com/55068834/121905746-19419580-cd48-11eb-9ec5-d21246981583.jpg)
+
+
+
+
+this image gives the comparison between actual caption and predicted caption when it is tested on an image in the dataset
